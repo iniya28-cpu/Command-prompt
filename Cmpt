@@ -1,0 +1,12 @@
+DAY 1
+
+1)My IP Address
+192.168.185.184
+
+2)Number of active network connection
+Listening port  = 21
+Established connection = 17
+
+3)What surprised me the most?
+I was surprised to find several ports in a LISTENING state. I didn’t realize that 
+background services keep running and waiting for network communication.
